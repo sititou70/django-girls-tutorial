@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-size: 16px;
+  font-family: helvetica, arial, 'hiragino kaku gothic pro', meiryo, 'ms pgothic', sans-serif;
+}
+
+header{
+  padding: 20px;
+  background-color: #428bca;
+}
+
+header a,
+header h1{
+  display: block;
+  margin: 0 auto!important;
+  max-width: 700px;
+  color: #fff;
+}
+
+.content{
+  margin: 0 auto;
+  max-width: 700px;
+  margin-top: 50px;
+}
+
+.post{
+  margin-top: 30px;
+}
